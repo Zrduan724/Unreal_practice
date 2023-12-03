@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{2A5FF80D-4158-AA81-C3D2-8A91DFB4C024}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Tencent_project1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
